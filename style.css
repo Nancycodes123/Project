@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+}
+.line{
+    margin:auto;
+    width: 70px;
+    background-color:black;
+    height: 2px;
+    margin-bottom:10;
+}
+#apps{
+    background-color: aqua;
+    text-align: center;
+}
+#games{
+    text-align: center;
+    background-color: blueviolet;
+}
+img{
+    margin: 10px;
+    width: 500px;
+    height: 500px;
+    transition:transform 0.5s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+#chatbot{
+    text-align: center;
+    background-color:chartreuse;
+}
